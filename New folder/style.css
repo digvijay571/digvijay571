@@ -478,7 +478,9 @@ a{
     align-self: center;
    font-family: "Nunito","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
+body{
+    overflow-x: hidden;
+}
 
 
 
